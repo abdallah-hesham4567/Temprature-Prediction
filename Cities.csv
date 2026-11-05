@@ -1,0 +1,214 @@
+City,Country,Latitude,Longitude,Temperature,Category
+Aalborg,Denmark,57.03,9.92,7.52,Cool
+Aberdeen,United Kingdom,57.17,-2.08,8.1,Cool
+Abisko,Sweden,63.35,18.83,0.2,Cold
+Adana,Turkey,36.99,35.32,18.67,Hot
+Albacete,Spain,39,-1.87,12.62,Warm
+Algeciras,Spain,36.13,-5.47,17.38,Hot
+Amiens,France,49.9,2.3,10.17,Warm
+Amsterdam,Netherlands,52.35,4.92,8.93,Cool
+Ancona,Italy,43.6,13.5,13.52,Warm
+Andorra,Andorra,42.5,1.52,9.6,Warm
+Angers,France,47.48,-0.53,10.98,Warm
+Ankara,Turkey,39.93,32.86,9.86,Warm
+Antalya,Turkey,36.89,30.7,11.88,Warm
+Arad,Romania,46.17,21.32,9.32,Warm
+Athens,Greece,37.98,23.73,17.41,Hot
+Augsburg,Germany,48.35,10.9,4.54,Cold
+Bacau,Romania,46.58,26.92,7.51,Cool
+Badajoz,Spain,38.88,-6.97,15.61,Hot
+Baia Mare,Romania,47.66,23.58,8.87,Cool
+Balti,Moldova,47.76,27.91,8.23,Cool
+Barcelona,Spain,41.38,2.18,15.78,Hot
+Bari,Italy,41.11,16.87,15.15,Hot
+Basel,Switzerland,47.58,7.59,6.68,Cool
+Batman,Turkey,37.89,41.14,14.16,Warm
+Belfast,United Kingdom,54.6,-5.96,8.48,Cool
+Belgrade,Serbia,44.82,20.47,9.85,Warm
+Bergamo,Italy,45.7,9.67,9.12,Warm
+Bergen,Norway,60.39,5.32,1.75,Cold
+Berlin,Germany,52.52,13.4,8.72,Cool
+Bialystok,Poland,53.15,23.17,6.07,Cool
+Bielefeld,Germany,52.03,8.53,8.78,Cool
+Bila Tserkva,Ukraine,49.77,30.13,6.98,Cool
+Bilbao,Spain,43.25,-2.93,11.41,Warm
+Birmingham,United Kingdom,52.47,-1.92,8.81,Cool
+Blackpool,United Kingdom,53.83,-3.05,9.15,Warm
+Bodo,Norway,67.25,14.4,4.5,Cold
+Bologna,Italy,44.5,11.34,11.69,Warm
+Bonn,Germany,50.72,7.08,8.63,Cool
+Bordeaux,France,44.85,-0.6,11.87,Warm
+Botosani,Romania,47.75,26.66,8.23,Cool
+Bournemouth,United Kingdom,50.73,-1.9,9.97,Warm
+Bradford,United Kingdom,53.8,-1.75,8.39,Cool
+Braga,Portugal,41.55,-8.42,13.42,Warm
+Braila,Romania,45.29,27.97,9.78,Warm
+Bratislava,Slovakia,48.15,17.12,9.65,Warm
+Bremen,Germany,53.08,8.8,8.14,Cool
+Brest,France,48.39,-4.5,11.02,Warm
+Brest,Belarus,52.1,23.7,6.73,Cool
+Brno,Czech Republic,49.2,16.61,7.86,Cool
+Brugge,Belgium,51.22,3.23,9.65,Warm
+Bucharest,Romania,44.43,26.1,10.59,Warm
+Budapest,Hungary,47.5,19.08,9.55,Warm
+Burgas,Bulgaria,42.51,27.47,11.93,Warm
+Burgos,Spain,42.35,-3.68,10.45,Warm
+Bursa,Turkey,40.2,29.07,11.16,Warm
+Bydgoszcz,Poland,53.12,18.01,7.14,Cool
+Bytom,Poland,50.35,18.91,7.66,Cool
+Caen,France,49.18,-0.35,9.96,Warm
+Cambridge,United Kingdom,52.2,0.12,9.25,Warm
+Cartagena,Spain,37.6,-0.98,17.32,Hot
+Catania,Italy,37.5,15.08,15.04,Hot
+Chemnitz,Germany,50.83,12.92,8.05,Cool
+Cherkasy,Ukraine,49.43,32.07,7.19,Cool
+Chernihiv,Ukraine,51.5,31.3,5.92,Cool
+Chernivtsi,Ukraine,48.31,25.92,7.06,Cool
+Chisinau,Moldova,47.01,28.86,8.6,Cool
+Constanta,Romania,44.2,28.61,11.24,Warm
+Cork,Ireland,51.9,-8.5,9.41,Warm
+Cosenza,Italy,39.27,16.29,16.6,Hot
+Craiova,Romania,44.33,23.83,10.51,Warm
+Daugavpils,Latvia,55.88,26.51,5.38,Cool
+Debrecen,Hungary,47.53,21.63,8.87,Cool
+Denizli,Turkey,37.77,29.08,15.02,Hot
+Dijon,France,47.33,5.03,8.69,Cool
+Dublin,Ireland,53.33,-6.25,8.49,Cool
+Dundee,United Kingdom,56.47,-3,6.4,Cool
+Edinburgh,United Kingdom,55.95,-3.22,7.43,Cool
+Edirne,Turkey,41.67,26.57,10.9,Warm
+Elbasan,Albania,41.12,20.08,15.18,Hot
+Elblag,Poland,54.19,19.4,6.68,Cool
+Erfurt,Germany,50.97,11.03,7.4,Cool
+Erzincan,Turkey,39.75,39.49,8.67,Cool
+Erzurum,Turkey,39.92,41.29,5.17,Cool
+Eskisehir,Turkey,39.79,30.53,11.11,Warm
+Exeter,United Kingdom,50.7,-3.53,10.14,Warm
+Foggia,Italy,41.46,15.56,13.83,Warm
+Frankfurt,Germany,50.1,8.68,7.98,Cool
+Freiburg,Germany,48,7.87,6.68,Cool
+Galway,Ireland,53.27,-9.05,10,Warm
+Gaziantep,Turkey,37.07,37.38,13.46,Warm
+Geneva,Switzerland,46.21,6.14,8.4,Cool
+Genoa,Italy,44.41,8.93,12.94,Warm
+Glasgow,United Kingdom,55.87,-4.25,8.6,Cool
+G”teborg,Sweden,57.75,12,5.76,Cool
+Granada,Spain,37.16,-3.59,16.33,Hot
+Graz,Austria,47.08,15.41,6.91,Cool
+Grenoble,France,45.18,5.72,8.4,Cool
+Groningen,Netherlands,53.22,6.58,8.71,Cool
+Gyor,Hungary,47.7,17.63,9.65,Warm
+Heidelberg,Germany,49.42,8.7,8.47,Cool
+Helsinki,Finland,60.18,24.93,4.19,Cold
+Horlivka,Ukraine,48.3,38.05,7.12,Cool
+Hrodna,Belarus,53.68,23.83,6.07,Cool
+Huelva,Spain,37.25,-6.93,17.09,Hot
+Ingolstadt,Germany,48.77,11.45,7.57,Cool
+Innsbruck,Austria,47.28,11.41,4.54,Cold
+Inverness,United Kingdom,57.47,-4.23,8,Cool
+Istanbul,Turkey,41.1,29.01,13.2,Warm
+Kalamata,Greece,37.04,22.11,17.3,Hot
+Karaman,Turkey,37.18,33.22,10.41,Warm
+Karlsruhe,Germany,49,8.4,8.88,Cool
+Kaunas,Lithuania,54.95,23.88,6.05,Cool
+Kayseri,Turkey,38.73,35.49,8.89,Cool
+Kherson,Ukraine,46.63,32.6,8.64,Cool
+Kielce,Poland,50.89,20.66,7.29,Cool
+Kiev,Ukraine,50.43,30.52,6.88,Cool
+Kiruna,Sweden,67.85,20.22,-2.2,Cold
+Klaipeda,Lithuania,55.72,21.12,7,Cool
+Kosice,Slovakia,48.73,21.25,7.31,Cool
+Koszalin,Poland,54.2,16.18,7.73,Cool
+Kremenchuk,Ukraine,49.08,33.43,7.43,Cool
+Kryvyy Rih,Ukraine,47.93,33.34,8.61,Cool
+Le Mans,France,48,0.1,10.59,Warm
+Lille,France,50.65,3.08,9.65,Warm
+Limoges,France,45.83,1.25,10.32,Warm
+Linz,Austria,48.32,14.29,6.79,Cool
+Lisbon,Portugal,38.72,-9.14,15.52,Hot
+Ljubljana,Slovenia,46.06,14.51,9.27,Warm
+Lvov,Ukraine,49.83,24.03,7.04,Cool
+Maastricht,Netherlands,50.85,5.68,8.63,Cool
+Madrid,Spain,40.4,-3.68,11.19,Warm
+Magdeburg,Germany,52.13,11.62,8.26,Cool
+Makiyivka,Ukraine,48.03,37.97,8.7,Cool
+Malatya,Turkey,38.37,38.3,14.13,Warm
+Malm”,Sweden,55.58,13.03,7.33,Cool
+Manisa,Turkey,38.63,27.44,15.1,Hot
+Marbella,Spain,36.52,-4.88,17.19,Hot
+Marseille,France,43.29,5.38,14.98,Warm
+Mazyr,Belarus,52.05,29.27,6.25,Cool
+Messina,Italy,38.2,15.55,16.54,Hot
+Metz,France,49.12,6.18,8.88,Cool
+Milan,Italy,45.47,9.21,6.65,Cool
+Minsk,Belarus,53.9,27.57,5.28,Cool
+Montpellier,France,43.61,3.87,11.11,Warm
+Mulhouse,France,47.75,7.35,6.68,Cool
+Murcia,Spain,37.98,-1.13,15,Hot
+Nice,France,43.72,7.27,8.82,Cool
+Nis,Serbia,43.33,21.9,9.36,Warm
+Novi Sad,Serbia,45.25,19.85,10.34,Warm
+Odense,Denmark,55.4,10.38,7.73,Cool
+Ordu,Turkey,41,37.87,11.92,Warm
+Orsha,Belarus,54.52,30.42,4.93,Cold
+Oslo,Norway,59.92,10.75,2.32,Cold
+Ostrava,Czech Republic,49.83,18.25,7.66,Cool
+Oulu,Finland,65,25.47,1.45,Cold
+Oviedo,Spain,43.35,-5.83,10.85,Warm
+Palermo,Italy,38.13,13.35,17.9,Hot
+Patras,Greece,38.23,21.73,16.9,Hot
+Perpignan,France,42.7,2.9,10.95,Warm
+Perugia,Italy,43.11,12.39,11.7,Warm
+Pescara,Italy,42.46,14.22,15.13,Hot
+Pinsk,Belarus,52.13,26.09,6.42,Cool
+Pleven,Bulgaria,43.42,24.61,10.51,Warm
+Plovdiv,Bulgaria,42.15,24.75,8.27,Cool
+Podgorica,Montenegro,42.47,19.27,9.99,Warm
+Poznan,Poland,52.41,16.9,8.31,Cool
+Prague,Czech Republic,50.08,14.47,8.05,Cool
+Reims,France,49.25,4.03,9.4,Warm
+Riga,Latvia,56.95,24.1,5.16,Cool
+Rijeka,Croatia,45.33,14.45,9.27,Warm
+Rivne,Ukraine,50.62,26.25,6.76,Cool
+Rome,Italy,41.9,12.48,15.1,Hot
+Rostock,Germany,54.07,12.15,8.07,Cool
+Ruse,Bulgaria,43.85,25.97,10.59,Warm
+Salamanca,Spain,40.97,-5.67,11.63,Warm
+Salzburg,Austria,47.81,13.04,4.62,Cold
+Samsun,Turkey,41.28,36.34,12.05,Warm
+Santander,Spain,43.38,-3.8,13.4,Warm
+Sarajevo,Bosnia and Herzegovina,43.85,13.38,9.6,Warm
+Sibiu,Romania,45.8,24.14,6.97,Cool
+Siirt,Turkey,37.94,41.93,12.48,Warm
+Sivas,Turkey,39.75,37.03,8.05,Cool
+Skopje,Macedonia,42,21.43,9.36,Warm
+Split,Croatia,43.52,16.47,12.46,Warm
+Stara Zagora,Bulgaria,42.42,25.62,10.9,Warm
+Stavanger,Norway,58.97,5.68,5.53,Cool
+Stockholm,Sweden,59.35,18.1,6.26,Cool
+Sumy,Ukraine,50.92,34.78,6.28,Cool
+Swansea,United Kingdom,51.63,-3.95,9.73,Warm
+Szeged,Hungary,46.25,20.15,10.34,Warm
+Tallinn,Estonia,59.43,24.73,4.82,Cold
+Tampere,Finland,61.5,23.75,3.59,Cold
+Tarsus,Turkey,36.92,34.88,11.21,Warm
+Tartu,Estonia,58.38,26.71,4.36,Cold
+Tekirdag,Turkey,40.99,27.51,13.02,Warm
+Toulouse,France,43.62,1.45,10.25,Warm
+Trabzon,Turkey,40.98,39.72,10.28,Warm
+Trieste,Italy,45.65,13.8,11.21,Warm
+Trikala,Greece,39.56,21.77,16,Hot
+Trondheim,Norway,63.42,10.42,4.53,Cold
+Turku,Finland,60.45,22.25,4.72,Cold
+Uppsala,Sweden,59.86,17.64,4.17,Cold
+Valencia,Spain,39.49,-0.4,16.02,Hot
+Vienna,Austria,48.2,16.37,7.86,Cool
+Vigo,Spain,42.22,-8.73,12.85,Warm
+Vilnius,Lithuania,54.68,25.32,5.38,Cool
+Warsaw,Poland,52.25,21,7.2,Cool
+Wroclaw,Poland,51.11,17.03,7.17,Cool
+Yevpatoriya,Ukraine,45.2,33.36,10.02,Warm
+Zaragoza,Spain,41.65,-0.89,14.17,Warm
+Zhytomyr,Ukraine,50.25,28.66,6.67,Cool
+Zonguldak,Turkey,41.43,31.78,10.64,Warm
+Zurich,Switzerland,47.38,8.56,6.68,Cool
